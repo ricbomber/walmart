@@ -1,1 +1,1 @@
-# Para exeucar o script FrontEnd executar o camando cucumber --tag @Carrinho
+# Para exeucar o script FrontEnd, executar o comando  "cucumber --tag @Carrinho"
